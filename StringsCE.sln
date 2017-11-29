@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsCE", "StringsCE\StringsCE.csproj", "{42679DA7-FA8C-4A76-A864-3B5A7EBCE63E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsCE.tests", "StringsCE.test\StringsCE.tests.csproj", "{802B1C17-595A-45D6-87F1-C6866C1521DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{42679DA7-FA8C-4A76-A864-3B5A7EBCE63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42679DA7-FA8C-4A76-A864-3B5A7EBCE63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42679DA7-FA8C-4A76-A864-3B5A7EBCE63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802B1C17-595A-45D6-87F1-C6866C1521DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802B1C17-595A-45D6-87F1-C6866C1521DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802B1C17-595A-45D6-87F1-C6866C1521DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802B1C17-595A-45D6-87F1-C6866C1521DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
